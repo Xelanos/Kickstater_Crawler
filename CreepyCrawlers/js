@@ -1,0 +1,128 @@
+{
+    "backers_count": 3833,
+    "blurb": "Pokit PRO frees you from the bench. Take your creativity to new places.",
+    "category": {
+        "color": 6526716,
+        "id": 337,
+        "name": "Gadgets",
+        "parent_id": 16,
+        "position": 7,
+        "slug": "technology/gadgets",
+        "urls": {
+            "web": {
+                "discover": "http://www.kickstarter.com/discover/categories/technology/gadgets"
+            }
+        }
+    },
+    "converted_pledged_amount": 384285,
+    "country": "AU",
+    "country_displayable_name": "Australia",
+    "created_at": 1568679894,
+    "creator": {
+        "avatar": {
+            "medium": "https://ksr-ugc.imgix.net/assets/016/962/119/fc818b1d0be5b3d4b6e036519a0447a5_original.jpg?ixlib=rb-2.1.0&w=160&h=160&fit=crop&v=1496632164&auto=format&frame=1&q=92&s=e58272030b64b4202156d418fa2ffefa",
+            "small": "https://ksr-ugc.imgix.net/assets/016/962/119/fc818b1d0be5b3d4b6e036519a0447a5_original.jpg?ixlib=rb-2.1.0&w=160&h=160&fit=crop&v=1496632164&auto=format&frame=1&q=92&s=e58272030b64b4202156d418fa2ffefa",
+            "thumb": "https://ksr-ugc.imgix.net/assets/016/962/119/fc818b1d0be5b3d4b6e036519a0447a5_original.jpg?ixlib=rb-2.1.0&w=40&h=40&fit=crop&v=1496632164&auto=format&frame=1&q=92&s=2f0428bf85670738bee8e9e35a8ee27e"
+        },
+        "chosen_currency": null,
+        "id": 62126482,
+        "is_registered": null,
+        "is_superbacker": null,
+        "name": "Pokit Innovations",
+        "slug": "pokitmeter",
+        "urls": {
+            "api": {
+                "user": "https://api.kickstarter.com/v1/users/62126482?signature=1574442954.9d45e89d29f30977c9709e8a76ffb77d7575a755"
+            },
+            "web": {
+                "user": "https://www.kickstarter.com/profile/pokitmeter"
+            }
+        }
+    },
+    "currency": "AUD",
+    "currency_symbol": "$",
+    "currency_trailing_code": true,
+    "current_currency": "USD",
+    "deadline": 1574884754,
+    "disable_communication": false,
+    "fx_rate": 0.67960452,
+    "goal": 30000.0,
+    "id": 1554409892,
+    "is_disliked": false,
+    "is_liked": false,
+    "is_starrable": true,
+    "launched_at": 1572289154,
+    "location": {
+        "country": "AU",
+        "displayable_name": "Sydney, AU",
+        "expanded_country": "Australia",
+        "id": 1105779,
+        "is_root": false,
+        "localized_name": "Sydney",
+        "name": "Sydney",
+        "short_name": "Sydney, AU",
+        "slug": "sydney-au",
+        "state": "NSW",
+        "type": "Town",
+        "urls": {
+            "api": {
+                "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1574440363.b1c378cf18c67654f477a196bd0ba1b66b3fd125&woe_id=1105779"
+            },
+            "web": {
+                "discover": "https://www.kickstarter.com/discover/places/sydney-au",
+                "location": "https://www.kickstarter.com/locations/sydney-au"
+            }
+        }
+    },
+    "name": "Pokit PRO | All-in-one multimeter, oscilloscope and logger",
+    "percent_funded": 1884.847733333333,
+    "photo": {
+        "1024x576": "https://ksr-ugc.imgix.net/assets/026/956/490/1c7a36c2c02b405e4252e1a23d7b15e7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1571874941&auto=format&frame=1&q=92&s=577c05ad2f5c0dcfe92e25365939e665",
+        "1536x864": "https://ksr-ugc.imgix.net/assets/026/956/490/1c7a36c2c02b405e4252e1a23d7b15e7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1571874941&auto=format&frame=1&q=92&s=fd9c877d60361aa33d5be9d0ac08e502",
+        "ed": "https://ksr-ugc.imgix.net/assets/026/956/490/1c7a36c2c02b405e4252e1a23d7b15e7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=352&h=198&fit=crop&v=1571874941&auto=format&frame=1&q=92&s=2e398276c0e3ca96c1344a9e2fe5175c",
+        "full": "https://ksr-ugc.imgix.net/assets/026/956/490/1c7a36c2c02b405e4252e1a23d7b15e7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=560&h=315&fit=crop&v=1571874941&auto=format&frame=1&q=92&s=784f996a603bfcc1d62c1227dc636bd9",
+        "key": "assets/026/956/490/1c7a36c2c02b405e4252e1a23d7b15e7_original.jpg",
+        "little": "https://ksr-ugc.imgix.net/assets/026/956/490/1c7a36c2c02b405e4252e1a23d7b15e7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=208&h=117&fit=crop&v=1571874941&auto=format&frame=1&q=92&s=34736699e1ff10dea7b14120844a7d30",
+        "med": "https://ksr-ugc.imgix.net/assets/026/956/490/1c7a36c2c02b405e4252e1a23d7b15e7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=272&h=153&fit=crop&v=1571874941&auto=format&frame=1&q=92&s=59b7f691985896a7f2f253f0e9b722b6",
+        "small": "https://ksr-ugc.imgix.net/assets/026/956/490/1c7a36c2c02b405e4252e1a23d7b15e7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=160&h=90&fit=crop&v=1571874941&auto=format&frame=1&q=92&s=1e4324f651fdddb21d61cd5086e43731",
+        "thumb": "https://ksr-ugc.imgix.net/assets/026/956/490/1c7a36c2c02b405e4252e1a23d7b15e7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=48&h=27&fit=crop&v=1571874941&auto=format&frame=1&q=92&s=9c35216381b3682a9d6cf8930efd92be"
+    },
+    "pledged": 565454.32,
+    "profile": {
+        "background_color": null,
+        "background_image_opacity": 0.8,
+        "blurb": null,
+        "feature_image_attributes": {
+            "image_urls": {
+                "baseball_card": "https://ksr-ugc.imgix.net/assets/026/956/490/1c7a36c2c02b405e4252e1a23d7b15e7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=560&h=315&fit=crop&v=1571874941&auto=format&frame=1&q=92&s=784f996a603bfcc1d62c1227dc636bd9",
+                "default": "https://ksr-ugc.imgix.net/assets/026/956/490/1c7a36c2c02b405e4252e1a23d7b15e7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1571874941&auto=format&frame=1&q=92&s=fd9c877d60361aa33d5be9d0ac08e502"
+            }
+        },
+        "id": 3814677,
+        "link_background_color": null,
+        "link_text": null,
+        "link_text_color": null,
+        "link_url": null,
+        "name": null,
+        "project_id": 3814677,
+        "should_show_feature_image_section": true,
+        "show_feature_image": false,
+        "state": "inactive",
+        "state_changed_at": 1568679894,
+        "text_color": null
+    },
+    "slug": "pokit-pro",
+    "spotlight": false,
+    "staff_pick": true,
+    "state": "live",
+    "state_changed_at": 1572289156,
+    "static_usd_rate": 0.68222131,
+    "urls": {
+        "web": {
+            "project": "https://www.kickstarter.com/projects/pokitmeter/pokit-pro",
+            "rewards": "https://www.kickstarter.com/projects/pokitmeter/pokit-pro/rewards"
+        }
+    },
+    "usd_pledged": "385764.9869355592",
+    "usd_type": "international"
+}
